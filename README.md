@@ -1,2 +1,2 @@
 # js-projects
-author ismail saiyed
+Author-ismail saiyed
